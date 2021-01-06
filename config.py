@@ -3,7 +3,7 @@ file_name = "data/data.csv"
 file_label = "class"
 file_delimiter = ","
 positive_class = "e"
-
+missing_value = "?"
 
 # tests settings
 rng_seed = 1
