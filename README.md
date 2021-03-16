@@ -1,7 +1,7 @@
 # Podstawy Sztucznej Inteligencji - Projekt - Przewidywanie czy grzyb jest jadalny przy użyciu własnej implementacji algorytmu ID3.
 Projekt wykonany w ramach przedmiotu PSZT (Podstawy Sztucznej Inteligencji) w semestrze 2020Z (5 semestr), na kierunku Informatyka, specjalizacji Inżynieria Systemów Informacyjnych (ISI) na Wydziale Elektroniki i Technik Informacyjnych (EiTI) Politechniki Warszawskiej.
 
-**Prowadzący projekt**: dr Rafał Biedrzycki 
+**Prowadzący projekt**: dr Rafał Biedrzycki  
 **Ocena**: 15/15
 
 ### Autorzy
