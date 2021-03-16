@@ -11,7 +11,7 @@ Adam Steciuk, nr 300263
 adam.steciuk.stud@pw.edu.pl  
 
 ### Treść zadania
-Przewidywanie czy grzyb jest jadalny przy użyciu własnej implementacji algorytmu ID3 z wykorzystaniem testów tożsamościowych (przy podziale na poddrzewa tworzone jest tyle poddrzew ile różnych wartości atrybutu wybranego do podziału)
+Przewidywanie czy grzyb jest jadalny przy użyciu własnej implementacji algorytmu ID3 z wykorzystaniem testów tożsamościowych (przy podziale na poddrzewa tworzone jest tyle poddrzew ile różnych wartości atrybutu wybranego do podziału). Badanie wpływu parametru k (w własnej implementacji k-walidacji krzyżowej) oraz wielkości zbioru uczącego na jakość wytrenowanego modelu.
 
 _(Reszta dostępna w [dokumentacji końcowej](https://github.com/steciuk/PSZT-ID3-algortihm/blob/12b5d0b49a91bb0c3468113b40e357d2b56d7d9d/DOC.pdf))_
 
